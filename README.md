@@ -1,1 +1,1 @@
-# sec-parser-exploration
+https://github.com/alphanome-ai/sec-parser
