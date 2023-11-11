@@ -1,4 +1,0 @@
-sec-parser
-sec-downloader
-jupyter-black
-tiktoken

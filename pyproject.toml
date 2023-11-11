@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "sec-parser-exploration"
+version = "0.0.0"
+description = ""
+authors = ["Elijas <4084885+Elijas@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+sec-parser = "^0.26.0"
+sec-downloader = "^0.2.9"
+notebook = "^7.0.6"
+jupyter-black = "^0.3.4"
+tiktoken = "^0.5.1"
+html2text = "^2020.1.16"
+beautifulsoup4 = "^4.12.2"
+pandas = "^2.1.3"
+tabulate = "^0.9.0"
+python-dotenv = "^1.0.0"
+litellm = "^0.14.0"
+rich = "^13.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
